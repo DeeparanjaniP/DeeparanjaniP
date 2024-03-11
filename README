@@ -47,6 +47,7 @@ margin: 0;
   display: block;
  }
  .menu ul li a:hover {
+
  color: #666;
  }
  /* Styles for dashboard widgets*/
